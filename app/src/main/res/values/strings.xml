@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Evaluasi 3</string>
+    <string name="universitas_teknologi_yogyakarta">Universitas Teknologi Yogyakarta</string>
+    <string name="todo">TODO</string>
+    <string name="muhammad_hafidz">Muhammad Hafidz</string>
+    <string name="gmail">mhmmdhafiidz18@gmail.com</string>
+    <string name="Na">Notification dan Alarm</string>
+    <string name="pass">Password:</string>
+    <string name="change">Change</string>
+    <string name="mobile">Mobile:</string>
+    <string name="nohp">089601653110</string>
+    <string name="univ">Univ:</string>
+    <string name="address">Address:</string>
+    <string name="street">NY-Street 22- no74</string>
+    <string name="postalcode">PostalCode:</string>
+    <string name="_9998887775">9998887775</string>
+</resources>
